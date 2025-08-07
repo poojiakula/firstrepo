@@ -1,0 +1,15 @@
+# Print "Hello, World!"
+print("Hello, World!")
+
+# Add two numbers
+num1 = 10
+num2 = 5
+sum_result = num1 + num2
+print(f"The sum is: {sum_result}")
+
+# Check if a number is even or odd
+number = 7
+if number % 2 == 0:
+    print(f"{number} is even.")
+else:
+    print(f"{number} is odd.")
